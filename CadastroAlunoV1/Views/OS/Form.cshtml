@@ -1,0 +1,241 @@
+﻿@model OsViewModel
+
+@{
+    ViewData["Title"] = "Formulário OS";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form asp-action="Salvar" method="post">
+    <h3>Principal</h3>
+    <div class="row">
+        <div class="col-md-3">
+            <input type="hidden" id="OperacaoId" name="Operacao" value="@ViewBag.Operacao" />
+            <input type="hidden" name="Id" value="@Model.Id" />
+
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Status" class="control-label">Status</label>
+                <select asp-for="Status" asp-items="ViewBag.Status" class="form-control"> </select>
+                <span asp-validation-for="Status" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="col-md-2">
+            <div class="form-group">
+                <label asp-for="OSTipo" class="control-label"></label><br />
+                @foreach (var tipo in Model.Tipos)
+                {
+                    <input type="radio" asp-for="OSTipo" value="@tipo" />@tipo <br />
+                }
+                <span asp-validation-for="OSTipo" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="col-md-2">
+            <div class="form-group">
+                <label asp-for="Orientacao" class="control-label">Orientação</label><br />
+                @foreach (var orientacao in Model.Orientacoes)
+                {
+                    <input type="radio" asp-for="Orientacao" value="@orientacao" />@orientacao <br />
+                }
+                <span asp-validation-for="Orientacao" class="text-danger"></span>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-3">
+            <div class="form-group">
+                <label asp-for="ClienteId" class="control-label">Cliente</label>
+                <select asp-for="ClienteId" asp-items="ViewBag.Clientes" class="form-control" onchange="buscaLista($(this).val())"> </select>
+                <span asp-validation-for="ClienteId" class="text-danger"></span>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">
+            <div class="form-group">
+                <label Name="ProjetosCliente" class="control-label">Projetos do cliente</label>
+                <select class="form-control" multiple="multiple" asp-items="@Model.ProjetosCliente" id="dropProjetosCliente" size="4"> </select>
+            </div>
+        </div>
+        <div class="col-md-2 text-center">
+            <div class="form-group" id="listButtons">
+                <br />
+                <button onclick="addProjeto()">>></button><br /><br />
+                <button onclick="removeProjeto()"><<</button>
+            </div>
+        </div>
+        <div class="col-md-2">
+            <div class="form-group">
+                <label Name="ProjetosOS" class="control-label">Projetos da OS</label>
+                <select Name="Projetos" multiple="multiple" asp-items="@Model.ProjetosOS" class="form-control" id="dropProjetosOS" size="4"> </select>
+                <span asp-validation-for="Projetos" class="text-danger"></span>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label asp-for="Multi" class="control-label"></label>
+                <input asp-for="Multi" class="form-control" id="multi" />
+                <span asp-validation-for="Multi" class="text-danger"></span>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label asp-for="Inicio" class="control-label">Início</label>
+                <input type="text" name="Inicio" value="@Model.Inicio?.ToString("dd-MM-yyyy hh:mm")" class="form-control" readonly />
+                <span asp-validation-for="Inicio" class="text-danger"></span>
+
+                <label asp-for="Fim" class="control-label"></label>
+                <input type="text" Name="Fim" value="@Model.Fim?.ToString("dd-MM-yyyy hh:mm")" class="form-control" id="fim" readonly />
+                <span asp-validation-for="Fim" class="text-danger"></span>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label asp-for="Obs" class="control-label"></label>
+                @Html.TextAreaFor(model => model.Obs, new { @class = "form-control", @cols = 50, @rows = 4 })
+                <span asp-validation-for="Obs" class="text-danger"></span>
+            </div>
+        </div>
+    </div>
+    <h3>Produção</h3>
+    <div class="row">
+        <div class="col-md-3">
+            <div class="form-group">
+                <label asp-for="Foto" class="control-label"></label>
+                <select asp-for="Foto" asp-items="ViewBag.Funcionarios" class="form-control"> </select>
+                <span asp-validation-for="Foto" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Link" class="control-label"></label>
+                <select asp-for="Link" asp-items="ViewBag.Funcionarios" class="form-control"> </select>
+                <span asp-validation-for="Link" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Impressao" class="control-label"></label>
+                <select asp-for="Impressao" asp-items="ViewBag.Funcionarios" class="form-control"> </select>
+                <span asp-validation-for="Impressao" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="form-group">
+                <label asp-for="Laminacao" class="control-label"></label>
+                <select asp-for="Laminacao" asp-items="ViewBag.Funcionarios" class="form-control"> </select>
+                <span asp-validation-for="Laminacao" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Corte" class="control-label"></label>
+                <select asp-for="Corte" asp-items="ViewBag.Funcionarios" class="form-control"> </select>
+                <span asp-validation-for="Corte" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Ordenacao" class="control-label"></label>
+                <select asp-for="Ordenacao" asp-items="ViewBag.Funcionarios" class="form-control"> </select>
+                <span asp-validation-for="Ordenacao" class="text-danger"></span>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">
+            <div class="form-group">
+                <label asp-for="Termo" class="control-label"></label>
+                <input asp-for="Termo" class="form-control" />
+                <span asp-validation-for="Termo" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="col-md-2">
+            <div class="form-group">
+                <label asp-for="Ribbon" class="control-label"></label>
+                <input asp-for="Ribbon" class="form-control" />
+                <span asp-validation-for="Ribbon" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="col-md-2">
+            <div class="form-group">
+                <label asp-for="Overlay" class="control-label"></label>
+                <input asp-for="Overlay" class="form-control" />
+                <span asp-validation-for="Overlay" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="col-md-2">
+            <div class="form-group">
+                <label asp-for="TermoOp" class="control-label">Op. da Termo</label>
+                <select asp-for="TermoOp" asp-items="ViewBag.Funcionarios" class="form-control"> </select>
+                <span asp-validation-for="TermoOp" class="text-danger"></span>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">
+            <div class="form-group">
+                <label asp-for="TotalProduzido" class="control-label"></label>
+                <input asp-for="TotalProduzido" class="form-control" />
+                <span asp-validation-for="TotalProduzido" class="text-danger"></span>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-3">
+            <div class="form-group">
+                <label asp-for="ConfOP" class="control-label">Conferente</label>
+                <select asp-for="ConfOP" asp-items="ViewBag.Funcionarios" class="form-control"> </select>
+                <span asp-validation-for="ConfOP" class="text-danger"></span>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label asp-for="Emails" class="control-label"></label>
+                @Html.TextAreaFor(model => model.Emails, new { @class = "form-control", @cols = 50, @rows = 4 })
+                <span asp-validation-for="Emails" class="text-danger"></span>
+            </div>
+        </div>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Salvar" onclick="selecionaLista()" class="btn btn-default" />
+    </div>
+    <div class="form-group">
+        <input type="submit" id="btnFinalizar" value="Finalizar" onclick="operacaoFinalizar()" class="btn btn-default" />
+    </div>
+</form>
+
+<div>
+    <a asp-action="Index">Voltar à lista</a>
+</div>
+
+<script src="~/js/OS.js"></script>
+<script>
+    //window.addEventListener('load', function () {
+    //    selecionaLista();
+    //});
+    function operacaoFinalizar() {
+        selecionaLista();
+        document.getElementById("OperacaoId").value = "F";
+    }
+    function selecionaLista() {
+        var srcList = document.getElementById("dropProjetosOS");
+        for (var i = 0; i < srcList.options.length; i++) {
+            srcList.options[i].selected = true;
+        }
+    };
+    function addProjeto() {
+        event.preventDefault();
+        var srcList = document.getElementById("dropProjetosCliente");
+        var dstList = document.getElementById("dropProjetosOS");
+        var selectedOption = srcList.options[srcList.selectedIndex];
+        dstList.add(selectedOption, 0);
+    };
+    function removeProjeto() {
+        event.preventDefault();
+        var srcList = document.getElementById("dropProjetosOS");
+        var dstList = document.getElementById("dropProjetosCliente");
+        var selectedOption = srcList.options[srcList.selectedIndex];
+        dstList.add(selectedOption, 0);
+    };
+</script>

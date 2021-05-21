@@ -1,0 +1,504 @@
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.deps.json
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.runtimeconfig.json
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.runtimeconfig.dev.json
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.dll
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.pdb
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.Views.dll
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.Views.pdb
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csprojAssemblyReference.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csproj.CoreCompileInputs.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorAssemblyInfo.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorAssemblyInfo.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.AssemblyInfoInputs.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.AssemblyInfo.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.TagHelpers.input.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.TagHelpers.output.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorCoreGenerate.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorTargetAssemblyInfo.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorTargetAssemblyInfo.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.Views.pdb
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.dll
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.pdb
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csproj.CopyComplete
+E:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.deps.json
+E:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.runtimeconfig.json
+E:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.runtimeconfig.dev.json
+E:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.dll
+E:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.pdb
+E:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.Views.dll
+E:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.Views.pdb
+E:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csprojAssemblyReference.cache
+E:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csproj.CoreCompileInputs.cache
+E:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorAssemblyInfo.cache
+E:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorAssemblyInfo.cs
+E:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.AssemblyInfoInputs.cache
+E:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.AssemblyInfo.cs
+E:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.TagHelpers.input.cache
+E:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.TagHelpers.output.cache
+E:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorCoreGenerate.cache
+E:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorTargetAssemblyInfo.cache
+E:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorTargetAssemblyInfo.cs
+E:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.Views.pdb
+E:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.dll
+E:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.pdb
+E:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csproj.CopyComplete
+E:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Index.g.cshtml.cs
+C:\eduardo\Apostila\CadastroAlunoV1\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.deps.json
+C:\eduardo\Apostila\CadastroAlunoV1\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.runtimeconfig.json
+C:\eduardo\Apostila\CadastroAlunoV1\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.runtimeconfig.dev.json
+C:\eduardo\Apostila\CadastroAlunoV1\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.dll
+C:\eduardo\Apostila\CadastroAlunoV1\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.pdb
+C:\eduardo\Apostila\CadastroAlunoV1\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.Views.dll
+C:\eduardo\Apostila\CadastroAlunoV1\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.Views.pdb
+C:\eduardo\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csprojAssemblyReference.cache
+C:\eduardo\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csproj.CoreCompileInputs.cache
+C:\eduardo\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorAssemblyInfo.cache
+C:\eduardo\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorAssemblyInfo.cs
+C:\eduardo\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.AssemblyInfoInputs.cache
+C:\eduardo\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.AssemblyInfo.cs
+C:\eduardo\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.TagHelpers.input.cache
+C:\eduardo\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.TagHelpers.output.cache
+C:\eduardo\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorCoreGenerate.cache
+C:\eduardo\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Index.g.cshtml.cs
+C:\eduardo\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\eduardo\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\eduardo\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\eduardo\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\eduardo\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\eduardo\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorTargetAssemblyInfo.cache
+C:\eduardo\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorTargetAssemblyInfo.cs
+C:\eduardo\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.Views.pdb
+C:\eduardo\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.dll
+C:\eduardo\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.pdb
+C:\eduardo\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csproj.CopyComplete
+C:\eduardo\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Form.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Form.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV1\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Index.g.cshtml.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV2\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.deps.json
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV2\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.runtimeconfig.json
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV2\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.runtimeconfig.dev.json
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV2\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.dll
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV2\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.pdb
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV2\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.Views.dll
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV2\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.Views.pdb
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csprojAssemblyReference.cache
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csproj.CoreCompileInputs.cache
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorAssemblyInfo.cache
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorAssemblyInfo.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.AssemblyInfoInputs.cache
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.AssemblyInfo.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.TagHelpers.input.cache
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.TagHelpers.output.cache
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorCoreGenerate.cache
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Form.g.cshtml.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Index.g.cshtml.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorTargetAssemblyInfo.cache
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorTargetAssemblyInfo.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.Views.pdb
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.dll
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.pdb
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csproj.CopyComplete
+C:\eduardo\LP1\Apostila\CadastroAlunoV2\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.deps.json
+C:\eduardo\LP1\Apostila\CadastroAlunoV2\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.runtimeconfig.json
+C:\eduardo\LP1\Apostila\CadastroAlunoV2\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.runtimeconfig.dev.json
+C:\eduardo\LP1\Apostila\CadastroAlunoV2\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.dll
+C:\eduardo\LP1\Apostila\CadastroAlunoV2\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.pdb
+C:\eduardo\LP1\Apostila\CadastroAlunoV2\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.Views.dll
+C:\eduardo\LP1\Apostila\CadastroAlunoV2\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.Views.pdb
+C:\eduardo\LP1\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csprojAssemblyReference.cache
+C:\eduardo\LP1\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csproj.CoreCompileInputs.cache
+C:\eduardo\LP1\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorAssemblyInfo.cache
+C:\eduardo\LP1\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorAssemblyInfo.cs
+C:\eduardo\LP1\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.AssemblyInfoInputs.cache
+C:\eduardo\LP1\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.AssemblyInfo.cs
+C:\eduardo\LP1\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.TagHelpers.input.cache
+C:\eduardo\LP1\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.TagHelpers.output.cache
+C:\eduardo\LP1\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorCoreGenerate.cache
+C:\eduardo\LP1\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Form.g.cshtml.cs
+C:\eduardo\LP1\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Index.g.cshtml.cs
+C:\eduardo\LP1\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\eduardo\LP1\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\eduardo\LP1\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\eduardo\LP1\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\eduardo\LP1\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\eduardo\LP1\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorTargetAssemblyInfo.cache
+C:\eduardo\LP1\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorTargetAssemblyInfo.cs
+C:\eduardo\LP1\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.Views.pdb
+C:\eduardo\LP1\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.dll
+C:\eduardo\LP1\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.pdb
+C:\eduardo\LP1\Apostila\CadastroAlunoV2\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csproj.CopyComplete
+C:\eduardo\LP1\Apostila\CadastroAlunoV3\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.deps.json
+C:\eduardo\LP1\Apostila\CadastroAlunoV3\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.runtimeconfig.json
+C:\eduardo\LP1\Apostila\CadastroAlunoV3\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.runtimeconfig.dev.json
+C:\eduardo\LP1\Apostila\CadastroAlunoV3\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.dll
+C:\eduardo\LP1\Apostila\CadastroAlunoV3\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.pdb
+C:\eduardo\LP1\Apostila\CadastroAlunoV3\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.Views.dll
+C:\eduardo\LP1\Apostila\CadastroAlunoV3\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.Views.pdb
+C:\eduardo\LP1\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csprojAssemblyReference.cache
+C:\eduardo\LP1\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csproj.CoreCompileInputs.cache
+C:\eduardo\LP1\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorAssemblyInfo.cache
+C:\eduardo\LP1\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorAssemblyInfo.cs
+C:\eduardo\LP1\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.AssemblyInfoInputs.cache
+C:\eduardo\LP1\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.AssemblyInfo.cs
+C:\eduardo\LP1\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.TagHelpers.input.cache
+C:\eduardo\LP1\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.TagHelpers.output.cache
+C:\eduardo\LP1\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorCoreGenerate.cache
+C:\eduardo\LP1\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Form.g.cshtml.cs
+C:\eduardo\LP1\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Index.g.cshtml.cs
+C:\eduardo\LP1\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\eduardo\LP1\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\eduardo\LP1\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\eduardo\LP1\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\eduardo\LP1\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\eduardo\LP1\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorTargetAssemblyInfo.cache
+C:\eduardo\LP1\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorTargetAssemblyInfo.cs
+C:\eduardo\LP1\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.Views.pdb
+C:\eduardo\LP1\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.dll
+C:\eduardo\LP1\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.pdb
+C:\eduardo\LP1\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csproj.CopyComplete
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.dll
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.pdb
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.deps.json
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.runtimeconfig.json
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.runtimeconfig.dev.json
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.dll
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.pdb
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.Views.dll
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.Views.pdb
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csprojAssemblyReference.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csproj.CoreCompileInputs.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorAssemblyInfo.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorAssemblyInfo.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.AssemblyInfoInputs.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.AssemblyInfo.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.TagHelpers.input.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.TagHelpers.output.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorCoreGenerate.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Form.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Index.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorTargetAssemblyInfo.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorTargetAssemblyInfo.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.Views.pdb
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csproj.CopyComplete
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.deps.json
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.runtimeconfig.json
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.runtimeconfig.dev.json
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.dll
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.pdb
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.Views.dll
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.Views.pdb
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csprojAssemblyReference.cache
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csproj.CoreCompileInputs.cache
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorAssemblyInfo.cache
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorAssemblyInfo.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.AssemblyInfoInputs.cache
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.AssemblyInfo.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.TagHelpers.input.cache
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.TagHelpers.output.cache
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorCoreGenerate.cache
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Form.g.cshtml.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Index.g.cshtml.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorTargetAssemblyInfo.cache
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorTargetAssemblyInfo.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.Views.pdb
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.dll
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.pdb
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV3\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csproj.CopyComplete
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csprojAssemblyReference.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csproj.CoreCompileInputs.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorAssemblyInfo.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorAssemblyInfo.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.AssemblyInfoInputs.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.AssemblyInfo.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.dll
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.pdb
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.deps.json
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.runtimeconfig.json
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.runtimeconfig.dev.json
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.dll
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.pdb
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.Views.dll
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.Views.pdb
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.TagHelpers.input.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.TagHelpers.output.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorCoreGenerate.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Form.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Index.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorTargetAssemblyInfo.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorTargetAssemblyInfo.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.Views.pdb
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csproj.CopyComplete
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Cidade\Index.g.cshtml.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.deps.json
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.runtimeconfig.json
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.runtimeconfig.dev.json
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.dll
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.pdb
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.Views.dll
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.Views.pdb
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csprojAssemblyReference.cache
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csproj.CoreCompileInputs.cache
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorAssemblyInfo.cache
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorAssemblyInfo.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.AssemblyInfoInputs.cache
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.AssemblyInfo.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.TagHelpers.input.cache
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.TagHelpers.output.cache
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorCoreGenerate.cache
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Form.g.cshtml.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Index.g.cshtml.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Cidade\Form.g.cshtml.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Cidade\Index.g.cshtml.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorTargetAssemblyInfo.cache
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorTargetAssemblyInfo.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.Views.pdb
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.dll
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.pdb
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csproj.CopyComplete
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Cidade\Form.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV4\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.deps.json
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.runtimeconfig.json
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.runtimeconfig.dev.json
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.dll
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.pdb
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.Views.dll
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.Views.pdb
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csprojAssemblyReference.cache
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csproj.CoreCompileInputs.cache
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorAssemblyInfo.cache
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorAssemblyInfo.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.AssemblyInfoInputs.cache
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.AssemblyInfo.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.TagHelpers.input.cache
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.TagHelpers.output.cache
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorCoreGenerate.cache
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Form.g.cshtml.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Index.g.cshtml.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Cidade\Form.g.cshtml.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Cidade\Index.g.cshtml.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorTargetAssemblyInfo.cache
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorTargetAssemblyInfo.cs
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.Views.pdb
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.dll
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.pdb
+G:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csproj.CopyComplete
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.deps.json
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.runtimeconfig.json
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.runtimeconfig.dev.json
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.dll
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.pdb
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.Views.dll
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.Views.pdb
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csprojAssemblyReference.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csproj.CoreCompileInputs.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorAssemblyInfo.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorAssemblyInfo.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.AssemblyInfoInputs.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.AssemblyInfo.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.TagHelpers.input.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.TagHelpers.output.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorCoreGenerate.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Form.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Index.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Cidade\Form.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Cidade\Index.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorTargetAssemblyInfo.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorTargetAssemblyInfo.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.Views.pdb
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.dll
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.pdb
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV5-Login\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csproj.CopyComplete
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV6 - Imagens\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.deps.json
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV6 - Imagens\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.runtimeconfig.json
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV6 - Imagens\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.runtimeconfig.dev.json
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV6 - Imagens\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.dll
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV6 - Imagens\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.pdb
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV6 - Imagens\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.Views.dll
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV6 - Imagens\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.Views.pdb
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV6 - Imagens\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csprojAssemblyReference.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV6 - Imagens\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csproj.CoreCompileInputs.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV6 - Imagens\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorAssemblyInfo.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV6 - Imagens\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorAssemblyInfo.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV6 - Imagens\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.AssemblyInfoInputs.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV6 - Imagens\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.AssemblyInfo.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV6 - Imagens\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.TagHelpers.input.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV6 - Imagens\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.TagHelpers.output.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV6 - Imagens\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorCoreGenerate.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV6 - Imagens\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Form.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV6 - Imagens\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Index.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV6 - Imagens\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Cidade\Form.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV6 - Imagens\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Cidade\Index.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV6 - Imagens\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV6 - Imagens\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV6 - Imagens\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV6 - Imagens\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV6 - Imagens\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV6 - Imagens\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV6 - Imagens\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV6 - Imagens\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorTargetAssemblyInfo.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV6 - Imagens\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorTargetAssemblyInfo.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV6 - Imagens\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.Views.pdb
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV6 - Imagens\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.dll
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV6 - Imagens\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.pdb
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV6 - Imagens\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csproj.CopyComplete
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.deps.json
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.runtimeconfig.json
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.runtimeconfig.dev.json
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.dll
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.pdb
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.Views.dll
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.Views.pdb
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csprojAssemblyReference.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csproj.CoreCompileInputs.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorAssemblyInfo.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorAssemblyInfo.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.AssemblyInfoInputs.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.AssemblyInfo.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.TagHelpers.input.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.TagHelpers.output.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorCoreGenerate.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Form.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Index.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Cidade\Form.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Cidade\Index.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorTargetAssemblyInfo.cache
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorTargetAssemblyInfo.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.Views.pdb
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.dll
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.pdb
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csproj.CopyComplete
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Index.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Detalhes.g.cshtml.cs
+F:\aulas\ASP.NET MVC\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Visualizar.g.cshtml.cs
+C:\eduardo\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.deps.json
+C:\eduardo\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.runtimeconfig.json
+C:\eduardo\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.runtimeconfig.dev.json
+C:\eduardo\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.dll
+C:\eduardo\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.pdb
+C:\eduardo\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.Views.dll
+C:\eduardo\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.Views.pdb
+C:\eduardo\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csprojAssemblyReference.cache
+C:\eduardo\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csproj.CoreCompileInputs.cache
+C:\eduardo\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorAssemblyInfo.cache
+C:\eduardo\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorAssemblyInfo.cs
+C:\eduardo\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.AssemblyInfoInputs.cache
+C:\eduardo\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.AssemblyInfo.cs
+C:\eduardo\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.TagHelpers.input.cache
+C:\eduardo\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.TagHelpers.output.cache
+C:\eduardo\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorCoreGenerate.cache
+C:\eduardo\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Form.g.cshtml.cs
+C:\eduardo\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Aluno\Index.g.cshtml.cs
+C:\eduardo\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Detalhes.g.cshtml.cs
+C:\eduardo\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Index.g.cshtml.cs
+C:\eduardo\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Visualizar.g.cshtml.cs
+C:\eduardo\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Cidade\Form.g.cshtml.cs
+C:\eduardo\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Cidade\Index.g.cshtml.cs
+C:\eduardo\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\eduardo\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\eduardo\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\eduardo\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\eduardo\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\eduardo\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\eduardo\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\eduardo\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorTargetAssemblyInfo.cache
+C:\eduardo\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorTargetAssemblyInfo.cs
+C:\eduardo\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.Views.pdb
+C:\eduardo\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.dll
+C:\eduardo\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.pdb
+C:\eduardo\Apostila\CadastroAlunoV7 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csproj.CopyComplete
+X:\Professores\Prof. Eduardo\2019-S2\EC-5 - LP I\Apostila\CadastroAlunoV10 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.dll
+X:\Professores\Prof. Eduardo\2019-S2\EC-5 - LP I\Apostila\CadastroAlunoV10 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.pdb
+C:\Users\fhdsr\OneDrive\Área de Trabalho\CadastroAlunoV10 - Carrinho\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.deps.json
+C:\Users\fhdsr\OneDrive\Área de Trabalho\CadastroAlunoV10 - Carrinho\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.runtimeconfig.json
+C:\Users\fhdsr\OneDrive\Área de Trabalho\CadastroAlunoV10 - Carrinho\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.runtimeconfig.dev.json
+C:\Users\fhdsr\OneDrive\Área de Trabalho\CadastroAlunoV10 - Carrinho\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.dll
+C:\Users\fhdsr\OneDrive\Área de Trabalho\CadastroAlunoV10 - Carrinho\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.pdb
+C:\Users\fhdsr\OneDrive\Área de Trabalho\CadastroAlunoV10 - Carrinho\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.Views.dll
+C:\Users\fhdsr\OneDrive\Área de Trabalho\CadastroAlunoV10 - Carrinho\CadastroAlunoV1\bin\Debug\netcoreapp2.1\CadastroAlunoV1.Views.pdb
+C:\Users\fhdsr\OneDrive\Área de Trabalho\CadastroAlunoV10 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csprojAssemblyReference.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\CadastroAlunoV10 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csproj.CoreCompileInputs.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\CadastroAlunoV10 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorAssemblyInfo.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\CadastroAlunoV10 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorAssemblyInfo.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\CadastroAlunoV10 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.AssemblyInfoInputs.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\CadastroAlunoV10 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.AssemblyInfo.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\CadastroAlunoV10 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.TagHelpers.input.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\CadastroAlunoV10 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.TagHelpers.output.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\CadastroAlunoV10 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorCoreGenerate.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\CadastroAlunoV10 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\CadastroAlunoV10 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\CadastroAlunoV10 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\CadastroAlunoV10 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\CadastroAlunoV10 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\CadastroAlunoV10 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\CadastroAlunoV10 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorTargetAssemblyInfo.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\CadastroAlunoV10 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.RazorTargetAssemblyInfo.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\CadastroAlunoV10 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.Views.pdb
+C:\Users\fhdsr\OneDrive\Área de Trabalho\CadastroAlunoV10 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.dll
+C:\Users\fhdsr\OneDrive\Área de Trabalho\CadastroAlunoV10 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.pdb
+C:\Users\fhdsr\OneDrive\Área de Trabalho\CadastroAlunoV10 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\CadastroAlunoV1.csproj.CopyComplete
+C:\Users\fhdsr\OneDrive\Área de Trabalho\CadastroAlunoV10 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\OS\Form.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\CadastroAlunoV10 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Form.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\CadastroAlunoV10 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\CadastroAlunoV10 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\OS\Index.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\CadastroAlunoV10 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Form.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\CadastroAlunoV10 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\CadastroAlunoV10 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Projeto\Form.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\CadastroAlunoV10 - Carrinho\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Projeto\Index.g.cshtml.cs

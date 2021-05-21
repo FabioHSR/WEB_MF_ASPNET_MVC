@@ -1,0 +1,58 @@
+﻿@model List<FuncionarioViewModel>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Listagem de Funcionarios</h2>
+
+<form asp-action="Filtra" method="post">
+    <div class="row">
+        <div class="form-group col-md-1">
+            <label Name="Id" class="control-label">Id</label><br />
+            <input Name="Id" type="number" class="form-control" />
+        </div>
+        <div class="form-group col-md-3">
+            <label Name="Nome" class="control-label">Nome</label>
+            <input Name="Nome" class="form-control" />
+        </div>
+        <div class="form-group col-md-3">
+            <label Name="Setor" class="control-label">Setor</label>
+            <input Name="Setor" class="form-control" />
+        </div>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Buscar" class="btn btn-default" />
+    </div>
+</form>
+<div class="form-group">
+
+    <a href="/Funcionario/create" class="btn btn-primary">Novo Registro</a>
+    <a href="/Funcionario/AtivarFuncs" class="btn btn-primary">Tornar Ativos</a>
+</div>
+
+<br />
+
+<table class="table table-responsive">
+    <tr>
+        <th>Ações</th>
+        <th>Id</th>
+        <th>Nome</th>
+        <th>Setor</th>
+    </tr>
+
+    @foreach (var func in Model)
+    {
+        <tr>
+            <td>
+                <a href="/Funcionario/Edit?id=@func.Id">Editar</a> |
+                <a href="javascript:apagar(@func.Id,'Funcionario')">Apagar</a>
+            </td>
+            <td>@func.Id</td>
+            <td>@func.Nome</td>
+            <td>@func.Setor</td>
+
+        </tr>
+    }
+</table>
+
+<script src="~/js/site.js"></script>

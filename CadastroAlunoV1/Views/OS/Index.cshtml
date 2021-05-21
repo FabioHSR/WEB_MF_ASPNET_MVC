@@ -1,0 +1,54 @@
+﻿@model List<OsViewModel>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section styles {
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css" />
+}
+
+<h2>Listagem de OS</h2>
+
+<a href="/OS/Create" class="btn btn-primary">Novo Registro</a>
+<br />
+
+<table class="display" id="myTable">
+    <thead>
+        <tr>
+            <th>Ações</th>
+            <th>Status</th>
+            <th>ID</th>
+            <th>Cliente</th>
+            <th>Tipo</th>
+            <th>Orientação</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <a href="/OS/Edit?id=@item.Id">Editar</a> |
+                    <a href="javascript:apagar(@item.Id,'OS')">Apagar</a>
+                </td>
+                <td>@item.Status</td>
+                <td>@item.Id</td>
+                <td>@item.ClienteNome</td>
+                <td>@item.OSTipo</td>
+                <td>@item.Orientacao</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+@section scripts {
+    <script src="~/js/site.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $('#myTable').DataTable();
+        });
+    </script>
+}

@@ -1,0 +1,296 @@
+C:\Users\fhdsr\OneDrive\Área de Trabalho\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.deps.json
+C:\Users\fhdsr\OneDrive\Área de Trabalho\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.runtimeconfig.json
+C:\Users\fhdsr\OneDrive\Área de Trabalho\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.runtimeconfig.dev.json
+C:\Users\fhdsr\OneDrive\Área de Trabalho\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.dll
+C:\Users\fhdsr\OneDrive\Área de Trabalho\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.pdb
+C:\Users\fhdsr\OneDrive\Área de Trabalho\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.Views.dll
+C:\Users\fhdsr\OneDrive\Área de Trabalho\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.Views.pdb
+C:\Users\fhdsr\OneDrive\Área de Trabalho\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.csprojAssemblyReference.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.csproj.CoreCompileInputs.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorAssemblyInfo.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorAssemblyInfo.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.AssemblyInfoInputs.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.AssemblyInfo.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.TagHelpers.input.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.TagHelpers.output.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorCoreGenerate.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Form.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Form.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\OS\Form.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\OS\Index.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Projeto\Form.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Projeto\Index.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorTargetAssemblyInfo.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorTargetAssemblyInfo.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.Views.pdb
+C:\Users\fhdsr\OneDrive\Área de Trabalho\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.dll
+C:\Users\fhdsr\OneDrive\Área de Trabalho\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.pdb
+C:\Users\fhdsr\OneDrive\Área de Trabalho\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.csproj.CopyComplete
+C:\Users\082170010\Desktop\2BN1\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.deps.json
+C:\Users\082170010\Desktop\2BN1\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.runtimeconfig.json
+C:\Users\082170010\Desktop\2BN1\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.runtimeconfig.dev.json
+C:\Users\082170010\Desktop\2BN1\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.dll
+C:\Users\082170010\Desktop\2BN1\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.pdb
+C:\Users\082170010\Desktop\2BN1\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.Views.dll
+C:\Users\082170010\Desktop\2BN1\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.Views.pdb
+C:\Users\082170010\Desktop\2BN1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.csprojAssemblyReference.cache
+C:\Users\082170010\Desktop\2BN1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.csproj.CoreCompileInputs.cache
+C:\Users\082170010\Desktop\2BN1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorAssemblyInfo.cache
+C:\Users\082170010\Desktop\2BN1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorAssemblyInfo.cs
+C:\Users\082170010\Desktop\2BN1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.AssemblyInfoInputs.cache
+C:\Users\082170010\Desktop\2BN1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.AssemblyInfo.cs
+C:\Users\082170010\Desktop\2BN1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.TagHelpers.input.cache
+C:\Users\082170010\Desktop\2BN1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.TagHelpers.output.cache
+C:\Users\082170010\Desktop\2BN1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorCoreGenerate.cache
+C:\Users\082170010\Desktop\2BN1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Form.g.cshtml.cs
+C:\Users\082170010\Desktop\2BN1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+C:\Users\082170010\Desktop\2BN1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Form.g.cshtml.cs
+C:\Users\082170010\Desktop\2BN1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+C:\Users\082170010\Desktop\2BN1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\082170010\Desktop\2BN1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\OS\Form.g.cshtml.cs
+C:\Users\082170010\Desktop\2BN1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\OS\Index.g.cshtml.cs
+C:\Users\082170010\Desktop\2BN1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Projeto\Form.g.cshtml.cs
+C:\Users\082170010\Desktop\2BN1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Projeto\Index.g.cshtml.cs
+C:\Users\082170010\Desktop\2BN1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\082170010\Desktop\2BN1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\082170010\Desktop\2BN1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\082170010\Desktop\2BN1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\082170010\Desktop\2BN1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\082170010\Desktop\2BN1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorTargetAssemblyInfo.cache
+C:\Users\082170010\Desktop\2BN1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorTargetAssemblyInfo.cs
+C:\Users\082170010\Desktop\2BN1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.Views.pdb
+C:\Users\082170010\Desktop\2BN1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.dll
+C:\Users\082170010\Desktop\2BN1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.pdb
+C:\Users\082170010\Desktop\2BN1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.csproj.CopyComplete
+C:\Users\082170010\Desktop\2BN1 CORRETO\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.deps.json
+C:\Users\082170010\Desktop\2BN1 CORRETO\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.runtimeconfig.json
+C:\Users\082170010\Desktop\2BN1 CORRETO\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.runtimeconfig.dev.json
+C:\Users\082170010\Desktop\2BN1 CORRETO\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.dll
+C:\Users\082170010\Desktop\2BN1 CORRETO\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.pdb
+C:\Users\082170010\Desktop\2BN1 CORRETO\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.Views.dll
+C:\Users\082170010\Desktop\2BN1 CORRETO\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.Views.pdb
+C:\Users\082170010\Desktop\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.csprojAssemblyReference.cache
+C:\Users\082170010\Desktop\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.csproj.CoreCompileInputs.cache
+C:\Users\082170010\Desktop\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorAssemblyInfo.cache
+C:\Users\082170010\Desktop\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorAssemblyInfo.cs
+C:\Users\082170010\Desktop\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.AssemblyInfoInputs.cache
+C:\Users\082170010\Desktop\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.AssemblyInfo.cs
+C:\Users\082170010\Desktop\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.TagHelpers.input.cache
+C:\Users\082170010\Desktop\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.TagHelpers.output.cache
+C:\Users\082170010\Desktop\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorCoreGenerate.cache
+C:\Users\082170010\Desktop\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Form.g.cshtml.cs
+C:\Users\082170010\Desktop\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+C:\Users\082170010\Desktop\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Form.g.cshtml.cs
+C:\Users\082170010\Desktop\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+C:\Users\082170010\Desktop\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\082170010\Desktop\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\OS\Form.g.cshtml.cs
+C:\Users\082170010\Desktop\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\OS\Index.g.cshtml.cs
+C:\Users\082170010\Desktop\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Projeto\Form.g.cshtml.cs
+C:\Users\082170010\Desktop\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Projeto\Index.g.cshtml.cs
+C:\Users\082170010\Desktop\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\082170010\Desktop\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\082170010\Desktop\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\082170010\Desktop\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\082170010\Desktop\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\082170010\Desktop\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorTargetAssemblyInfo.cache
+C:\Users\082170010\Desktop\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorTargetAssemblyInfo.cs
+C:\Users\082170010\Desktop\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.Views.pdb
+C:\Users\082170010\Desktop\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.dll
+C:\Users\082170010\Desktop\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.pdb
+C:\Users\082170010\Desktop\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.csproj.CopyComplete
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.csprojAssemblyReference.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.csproj.CoreCompileInputs.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorAssemblyInfo.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorAssemblyInfo.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.AssemblyInfoInputs.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.AssemblyInfo.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.dll
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.pdb
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1 CORRETO\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.deps.json
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1 CORRETO\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.runtimeconfig.json
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1 CORRETO\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.runtimeconfig.dev.json
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1 CORRETO\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.dll
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1 CORRETO\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.pdb
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1 CORRETO\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.Views.dll
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1 CORRETO\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.Views.pdb
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.TagHelpers.input.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.TagHelpers.output.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorCoreGenerate.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Form.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Form.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\OS\Form.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\OS\Index.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Projeto\Form.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Projeto\Index.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorTargetAssemblyInfo.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorTargetAssemblyInfo.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.Views.pdb
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.csproj.CopyComplete
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1 CORRETO\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Sobre\Index.g.cshtml.cs
+C:\Users\ianis\Desktop\2BN1-1.1\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.deps.json
+C:\Users\ianis\Desktop\2BN1-1.1\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.runtimeconfig.json
+C:\Users\ianis\Desktop\2BN1-1.1\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.runtimeconfig.dev.json
+C:\Users\ianis\Desktop\2BN1-1.1\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.dll
+C:\Users\ianis\Desktop\2BN1-1.1\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.pdb
+C:\Users\ianis\Desktop\2BN1-1.1\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.Views.dll
+C:\Users\ianis\Desktop\2BN1-1.1\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.Views.pdb
+C:\Users\ianis\Desktop\2BN1-1.1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.csprojAssemblyReference.cache
+C:\Users\ianis\Desktop\2BN1-1.1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.csproj.CoreCompileInputs.cache
+C:\Users\ianis\Desktop\2BN1-1.1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorAssemblyInfo.cache
+C:\Users\ianis\Desktop\2BN1-1.1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorAssemblyInfo.cs
+C:\Users\ianis\Desktop\2BN1-1.1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.AssemblyInfoInputs.cache
+C:\Users\ianis\Desktop\2BN1-1.1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.AssemblyInfo.cs
+C:\Users\ianis\Desktop\2BN1-1.1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.TagHelpers.input.cache
+C:\Users\ianis\Desktop\2BN1-1.1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.TagHelpers.output.cache
+C:\Users\ianis\Desktop\2BN1-1.1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorCoreGenerate.cache
+C:\Users\ianis\Desktop\2BN1-1.1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Form.g.cshtml.cs
+C:\Users\ianis\Desktop\2BN1-1.1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+C:\Users\ianis\Desktop\2BN1-1.1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Form.g.cshtml.cs
+C:\Users\ianis\Desktop\2BN1-1.1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+C:\Users\ianis\Desktop\2BN1-1.1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\ianis\Desktop\2BN1-1.1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\OS\Form.g.cshtml.cs
+C:\Users\ianis\Desktop\2BN1-1.1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\OS\Index.g.cshtml.cs
+C:\Users\ianis\Desktop\2BN1-1.1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Projeto\Form.g.cshtml.cs
+C:\Users\ianis\Desktop\2BN1-1.1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Projeto\Index.g.cshtml.cs
+C:\Users\ianis\Desktop\2BN1-1.1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\ianis\Desktop\2BN1-1.1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\ianis\Desktop\2BN1-1.1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ianis\Desktop\2BN1-1.1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Sobre\Index.g.cshtml.cs
+C:\Users\ianis\Desktop\2BN1-1.1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\ianis\Desktop\2BN1-1.1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\ianis\Desktop\2BN1-1.1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorTargetAssemblyInfo.cache
+C:\Users\ianis\Desktop\2BN1-1.1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorTargetAssemblyInfo.cs
+C:\Users\ianis\Desktop\2BN1-1.1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.Views.pdb
+C:\Users\ianis\Desktop\2BN1-1.1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.dll
+C:\Users\ianis\Desktop\2BN1-1.1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.pdb
+C:\Users\ianis\Desktop\2BN1-1.1\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.csproj.CopyComplete
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.2\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.deps.json
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.2\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.runtimeconfig.json
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.2\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.runtimeconfig.dev.json
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.2\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.dll
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.2\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.pdb
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.2\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.Views.dll
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.2\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.Views.pdb
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.2\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.csprojAssemblyReference.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.2\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.csproj.CoreCompileInputs.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.2\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorAssemblyInfo.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.2\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorAssemblyInfo.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.2\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.AssemblyInfoInputs.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.2\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.AssemblyInfo.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.2\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.TagHelpers.input.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.2\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.TagHelpers.output.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.2\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorCoreGenerate.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.2\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Form.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.2\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.2\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Form.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.2\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.2\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.2\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\OS\Form.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.2\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\OS\Index.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.2\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Projeto\Form.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.2\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Projeto\Index.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.2\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.2\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.2\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.2\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Sobre\Index.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.2\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.2\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.2\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorTargetAssemblyInfo.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.2\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorTargetAssemblyInfo.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.2\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.Views.pdb
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.2\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.dll
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.2\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.pdb
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.2\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.csproj.CopyComplete
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.csprojAssemblyReference.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.csproj.CoreCompileInputs.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorAssemblyInfo.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorAssemblyInfo.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.AssemblyInfoInputs.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.AssemblyInfo.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.dll
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.pdb
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.TagHelpers.input.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.TagHelpers.output.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorCoreGenerate.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Form.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Form.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\OS\Form.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\OS\Index.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Projeto\Form.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Projeto\Index.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Sobre\Index.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorTargetAssemblyInfo.cache
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorTargetAssemblyInfo.cs
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.4\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.deps.json
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.4\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.runtimeconfig.json
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.4\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.runtimeconfig.dev.json
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.4\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.dll
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.4\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.pdb
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.4\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.Views.dll
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.4\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.Views.pdb
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.Views.pdb
+C:\Users\fhdsr\OneDrive\Área de Trabalho\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.csproj.CopyComplete
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.deps.json
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.runtimeconfig.json
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.runtimeconfig.dev.json
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.dll
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.pdb
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.Views.dll
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\bin\Debug\netcoreapp2.1\WEBMF.Views.pdb
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorAssemblyInfo.cache
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorAssemblyInfo.cs
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.AssemblyInfo.cs
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.TagHelpers.input.cache
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.TagHelpers.output.cache
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorCoreGenerate.cache
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Form.cshtml.g.cs
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.cshtml.g.cs
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Form.cshtml.g.cs
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.cshtml.g.cs
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\OS\Form.cshtml.g.cs
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\OS\Index.cshtml.g.cs
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Projeto\Form.cshtml.g.cs
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Projeto\Index.cshtml.g.cs
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Sobre\Index.cshtml.g.cs
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorTargetAssemblyInfo.cache
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.RazorTargetAssemblyInfo.cs
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.Views.pdb
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.dll
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.pdb
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.csproj.CopyComplete
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\WEBMF.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\2BN1-1.4\WEBMF\CadastroAlunoV1\obj\Debug\netcoreapp2.1\Razor\Views\Consulta\Index.cshtml.g.cs

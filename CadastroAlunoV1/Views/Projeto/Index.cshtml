@@ -1,0 +1,51 @@
+﻿@model List<ProjetoViewModel>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Listagem de Projetos</h2>
+
+<a href="/projeto/create" class="btn btn-primary">Novo Projeto</a>
+<br />
+
+<table class="table table-responsive">
+    <tr>
+        <th>Ações</th>
+        <th>NomeProjeto</th>
+        <th>BoxFoto</th>
+        <th>Espessura</th>
+        <th>Tecnologia</th>
+        <th>Adesivo</th>
+        <th>Furo</th>
+        <th>Termo</th>
+        <th>ProjTermo</th>
+        <th>TarjaMag</th>
+        <th>Obs</th>
+    </tr>
+
+    @foreach (var projeto in Model)
+    {
+        <tr>
+            <td>
+                <a href="/projeto/Edit?id=@projeto.Id">Editar</a>
+                <a href="javascript:apagar(@projeto.Id,'Projeto')">Apagar</a>
+            </td>
+            <td>@projeto.NomeProjeto</td>
+            <td>@projeto.BoxFoto</td>
+            <td>@projeto.Espessura</td>
+            <td>@projeto.Tecnologia</td>
+            <td>@projeto.Adesivo</td>
+            <td>@projeto.Furo</td>
+            <td>@projeto.Termo</td>
+            <td>@projeto.ProjTermo</td>
+            <td>@projeto.TarjaMag</td>
+            <td>@projeto.Obs</td>
+            @*<img id="imgPreview" src="data:image/jpeg;base64,@Model.ImagemEmBase64" class="img-responsive" width="200">
+                <br />*@
+
+        </tr>
+    }
+</table>
+
+<script src="~/js/site.js"></script>
+
